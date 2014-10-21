@@ -1,16 +1,28 @@
 "The Haunted Record Player" by Kyle Axt
 
-Entrance Hall is a room. 
+Rule for deciding whether all includes something: it does not.
 
-The South Hallway is north of the Entrance Hall.
+Rule for printing a parser error when the lastest parser error is the nothing to do error: say "n00b" instead.
 
-The North Hallway is north of the South Hallway.
+Foyer is a room. 
 
-The Library is west of the South Hallway.
+Entrance Hallway is north of Foyer.
 
-The Kitchen is east of the north hallway.
+Music room is north of Entrance Hallway.
 
-The Dining Room is north of the kitchen.
+North Bedroom Hallway is north of Music Room.
 
-The Music room is west of the Dining Room.
+East Bedroom Hallway is east of Music Room.
+
+Library is west of Music Room.
+
+Secret Room is a Room.
+
+John's Bedroom is a Room.
+
+Sally's Bedroom is a Room.
+
+Paul's Bedroom is a Room.
+
+William Henry's Room is a Room.
 

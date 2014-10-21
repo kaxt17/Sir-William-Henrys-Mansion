@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Skein rootNode="node-0x17ae30" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x17ae30" />
+  <activeNode nodeId="node-0x256ca0" />
   <item nodeId="node-0x17ae30">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
@@ -9,14 +9,14 @@
 
 The Haunted Record Player
 An Interactive Fiction by Kyle Axt
-Release 1 / Serial number 141014 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+Release 1 / Serial number 141020 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
-Start
+Foyer
 
 &gt;</result>
     <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="244">NO</temporary>
+    <changed>YES</changed>
+    <temporary score="32">NO</temporary>
     <children>
       <child nodeId="node-0x3f72810" />
       <child nodeId="node-0x17aea0" />
@@ -2766,39 +2766,375 @@ Start
   </item>
   <item nodeId="node-0x3f72810">
     <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can&apos;t go that way.
+    <result xml:space="preserve">
+Entrance Hallway
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="15">YES</temporary>
+    <temporary score="32">YES</temporary>
     <children>
       <child nodeId="node-0x3f727a0" />
     </children>
   </item>
   <item nodeId="node-0x3f727a0">
     <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can&apos;t go that way.
+    <result xml:space="preserve">
+Music room
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="15">YES</temporary>
+    <temporary score="32">YES</temporary>
     <children>
       <child nodeId="node-0x3f72730" />
     </children>
   </item>
   <item nodeId="node-0x3f72730">
     <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+North Bedroom Hallway
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f726c0" />
+      <child nodeId="node-0x14ffb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x14ffb0">
+    <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="15">YES</temporary>
+    <temporary score="32">YES</temporary>
     <children>
-      <child nodeId="node-0x3f726c0" />
+      <child nodeId="node-0x229210" />
     </children>
+  </item>
+  <item nodeId="node-0x229210">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Music room
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f64b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f64b60">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Entrance Hallway
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f6aaa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f6aaa0">
+    <command xml:space="preserve">go to music room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x174c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x174c10">
+    <command xml:space="preserve">go to Music room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f68570" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f68570">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x4bd120" />
+    </children>
+  </item>
+  <item nodeId="node-0x4bd120">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f47820" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f47820">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f43220" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f43220">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x211970" />
+    </children>
+  </item>
+  <item nodeId="node-0x211970">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x909c0f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x909c0f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x271990" />
+    </children>
+  </item>
+  <item nodeId="node-0x271990">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x222370" />
+    </children>
+  </item>
+  <item nodeId="node-0x222370">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x21e8a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x21e8a0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f4f950" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f4f950">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x25bb30" />
+    </children>
+  </item>
+  <item nodeId="node-0x25bb30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x258930" />
+    </children>
+  </item>
+  <item nodeId="node-0x258930">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x90b2990" />
+    </children>
+  </item>
+  <item nodeId="node-0x90b2990">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f41140" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f41140">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x21f3f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x21f3f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x90b77f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x90b77f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f39df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f39df0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x909e120" />
+    </children>
+  </item>
+  <item nodeId="node-0x909e120">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x90ec4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x90ec4d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f41a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f41a60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x90a3370" />
+    </children>
+  </item>
+  <item nodeId="node-0x90a3370">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f301b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f301b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x256ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x256ca0">
+    <command xml:space="preserve">take all</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
   </item>
   <item nodeId="node-0x3f726c0">
     <command xml:space="preserve">n</command>
