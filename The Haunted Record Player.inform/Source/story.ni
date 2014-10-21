@@ -13,3 +13,4 @@ The Kitchen is east of the north hallway.
 The Dining Room is north of the kitchen.
 
 The Music room is west of the Dining Room.
+
