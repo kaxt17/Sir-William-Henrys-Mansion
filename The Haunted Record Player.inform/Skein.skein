@@ -1,0 +1,2932 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x17ae30" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x17ae30" />
+  <item nodeId="node-0x17ae30">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+The Haunted Record Player
+An Interactive Fiction by Kyle Axt
+Release 1 / Serial number 141014 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Start
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="244">NO</temporary>
+    <children>
+      <child nodeId="node-0x3f72810" />
+      <child nodeId="node-0x17aea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17aea0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17aef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x17aef0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17af40" />
+    </children>
+  </item>
+  <item nodeId="node-0x17af40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17af90" />
+    </children>
+  </item>
+  <item nodeId="node-0x17af90">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17b000" />
+    </children>
+  </item>
+  <item nodeId="node-0x17b000">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17b070" />
+    </children>
+  </item>
+  <item nodeId="node-0x17b070">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78910" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78910">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f788c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f788c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78870" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78870">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78820" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78820">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f787b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f787b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78680" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78680">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x17b100" />
+    </children>
+  </item>
+  <item nodeId="node-0x17b100">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78610" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78610">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f785a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f785a0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78530" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78530">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f784c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f784c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78450" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78450">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f783e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f783e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78730" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78730">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f786d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f786d0">
+    <command xml:space="preserve">sdf</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f781d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f781d0">
+    <command xml:space="preserve">sd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78160" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78160">
+    <command xml:space="preserve">ff</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f780f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f780f0">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78080" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78080">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78010" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78010">
+    <command xml:space="preserve">rew</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77fa0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77f30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77ec0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77e50">
+    <command xml:space="preserve">ww</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77de0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77d70">
+    <command xml:space="preserve">wq</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78310" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78310">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f78260" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f78260">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f782b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f782b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77ac0">
+    <command xml:space="preserve">df</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77a50">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f779e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f779e0">
+    <command xml:space="preserve">br</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77970" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77970">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77900" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77900">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77890" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77890">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77820" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77820">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f777b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f777b0">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77740" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77740">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f776d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f776d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77660" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77660">
+    <command xml:space="preserve">ger</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f775f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f775f0">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77580" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77580">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77510" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77510">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f774a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f774a0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77430" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77430">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f773c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f773c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77b10">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77b80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77bf0">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77c60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77c60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77cd0">
+    <command xml:space="preserve">ak</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77350" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77350">
+    <command xml:space="preserve">sn</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f772e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f772e0">
+    <command xml:space="preserve">;</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77270" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77270">
+    <command xml:space="preserve">edsa</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77200" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77200">
+    <command xml:space="preserve">a</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77190" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77190">
+    <command xml:space="preserve">sdef</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77120" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77120">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f770b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f770b0">
+    <command xml:space="preserve">sd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f77040" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f77040">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76fd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76f60">
+    <command xml:space="preserve">fa</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76ef0">
+    <command xml:space="preserve">ds</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76e80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76e10">
+    <command xml:space="preserve">h</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76da0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76d30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76d30">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76cc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76c50">
+    <command xml:space="preserve">hdd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76be0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76be0">
+    <command xml:space="preserve">dfd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76b70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76b70">
+    <command xml:space="preserve">dd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76b00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76b00">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76a90">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76a20" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76a20">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f769b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f769b0">
+    <command xml:space="preserve">gd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76940" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76940">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f768d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f768d0">
+    <command xml:space="preserve">dn</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76860" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76860">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f767f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f767f0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76780" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76780">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76710" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76710">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f766a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f766a0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76630" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76630">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f765c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f765c0">
+    <command xml:space="preserve">dbd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76550" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76550">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f764e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f764e0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76470" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76470">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76400" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76400">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76390" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76390">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76320" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76320">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f762b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f762b0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76240" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76240">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f761d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f761d0">
+    <command xml:space="preserve">ds</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76160" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76160">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f760f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f760f0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76080" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76080">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f76010" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f76010">
+    <command xml:space="preserve">ds</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75fa0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75f30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75f30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75ec0">
+    <command xml:space="preserve">fd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75e50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75e50">
+    <command xml:space="preserve">df</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75de0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75de0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75d70">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75d00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75d00">
+    <command xml:space="preserve">dd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75c90">
+    <command xml:space="preserve">ed</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75c20">
+    <command xml:space="preserve">gd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75bb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75bb0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75b40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75ad0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75ad0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75a60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f759f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f759f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75980" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75980">
+    <command xml:space="preserve">dr</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75910" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75910">
+    <command xml:space="preserve">hd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f758a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f758a0">
+    <command xml:space="preserve">dh</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75830" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75830">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f757c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f757c0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75750" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75750">
+    <command xml:space="preserve">h</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f756e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f756e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75670" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75670">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75600" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75600">
+    <command xml:space="preserve">dr</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75590" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75590">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75520" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75520">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f754b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f754b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75440" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75440">
+    <command xml:space="preserve">rd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f753d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f753d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75360" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75360">
+    <command xml:space="preserve">dw</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f752f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f752f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75280" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75280">
+    <command xml:space="preserve">dw</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75210" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75210">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f751a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f751a0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75130" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75130">
+    <command xml:space="preserve">hd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f750c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f750c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f75050" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f75050">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74fe0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74f70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74f70">
+    <command xml:space="preserve">yd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74f00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74f00">
+    <command xml:space="preserve">jd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74e90" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74e90">
+    <command xml:space="preserve">td</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74e20" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74e20">
+    <command xml:space="preserve">k</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74db0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74db0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74d40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74cd0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74c60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74c60">
+    <command xml:space="preserve">wd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74bf0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74b80">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74b10">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74aa0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74a30">
+    <command xml:space="preserve">wd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f749c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f749c0">
+    <command xml:space="preserve">kd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74950" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74950">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f748e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f748e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74870" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74870">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74800" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74800">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74790" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74790">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74720" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74720">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f746b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f746b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74640" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74640">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f745d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f745d0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74560" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74560">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f744f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f744f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74480" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74480">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74410" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74410">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f743a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f743a0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74330" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74330">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f742c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f742c0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74250" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74250">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f741e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f741e0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74170" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74170">
+    <command xml:space="preserve">bd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74100" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74100">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74090" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74090">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f74020" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f74020">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73fb0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73f40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73ed0">
+    <command xml:space="preserve">dd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73e60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73df0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73d80">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73d10">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73ca0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73c30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73bc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73b50">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73ae0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73a70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73a70">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73a00">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73990" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73990">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73920" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73920">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f738b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f738b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73840" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73840">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f737d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f737d0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73760" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73760">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f736f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f736f0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73680" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73680">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73610" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73610">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f735a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f735a0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73530" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73530">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f734c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f734c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73450" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73450">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f733e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f733e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73370" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73370">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73300" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73300">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73290" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73290">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73220" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73220">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f731b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f731b0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73140" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73140">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f730d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f730d0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f73060" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f73060">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72ff0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72f80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72f10">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72ea0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72e30">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72dc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72d50">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72ce0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72c70">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72c00">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72b90">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72b20">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72ab0">
+    <command xml:space="preserve">gr</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72a40">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f729d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f729d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72960" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72960">
+    <command xml:space="preserve">h</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f728f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f728f0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72880" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72880">
+    <command xml:space="preserve">he</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="243">YES</temporary>
+  </item>
+  <item nodeId="node-0x3f72810">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f727a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f727a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72730" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72730">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f726c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f726c0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72650" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72650">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f725e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f725e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72570" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72570">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72500" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72500">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72490" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72490">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72420" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72420">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f723b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f723b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72340" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72340">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f722d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f722d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15">YES</temporary>
+    <children>
+      <child nodeId="node-0x3f72260" />
+    </children>
+  </item>
+  <item nodeId="node-0x3f72260">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14">YES</temporary>
+  </item>
+</Skein>
