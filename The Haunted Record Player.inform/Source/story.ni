@@ -26,17 +26,26 @@ Paul's Bedroom is a Room.
 
 William Henry's Room is a Room.
 
-The Record Player is a container in the Music Room.  It is undescribed.  
+The Not Working Record Player is a container in the Music Room.  It is undescribed.  
 
 The Reader Pin is in the Music Room.  It is undescribed.
 
-Playable Record player is scenery.  It is undescribed.
+The Room Sized Box is a room. 
+
+Playable Record player is scenery in The Room SIzed Box.  It is undescribed. 
 
 Combining it with is an action applying to two things.
 Understand "combine [something] with [something]" as combining it with.
 
-Instead of combining the record player with the reader pin:
+Instead of combining the not working record player with the reader pin:
 	say "You put the reader pin in the record player.";
 	remove reader pin from play;
-	remove record player from play;
+	remove Not working record player from play;
 	move the Playable Record Player to Music Room.
+	
+Instead of combining the reader pin with the not working record player:
+	say "You put the reader pin in the record player.";
+	remove reader pin from play;
+	remove Not working record player from play;
+	move the Playable Record Player to Music Room.
+
