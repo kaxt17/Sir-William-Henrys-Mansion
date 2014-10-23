@@ -6,9 +6,17 @@ Rule for printing a parser error when the lastest parser error is the nothing to
 
 Foyer is a room. 
 
+Coat Hanger is scenery in the Foyer.  The description is "Coat Hanger"
+Painting is scenery in 
+
 Entrance Hallway is north of Foyer.
 
+The Table is scenery in the entrance hallway.  The description is "Table"
+The flower vase is in the entrance hallway.  The description is "Theres a dead flower in here."
+
 Music room is north of Entrance Hallway.
+
+[Piano, Tuba, Theremin, ]
 
 North Bedroom Hallway is north of Music Room.
 
@@ -16,7 +24,11 @@ East Bedroom Hallway is east of Music Room.
 
 Library is west of Music Room.
 
-Secret Room is a Room.
+Bookshelf is scenery in the Music Room.  The description is "There are books on the bookshelf.  "
+
+Secret Room is a Room.  The description is "The halls are made of stone."
+
+
 
 John's Bedroom is a Room.
 
