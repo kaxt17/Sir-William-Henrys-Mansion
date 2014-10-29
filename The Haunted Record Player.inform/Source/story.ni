@@ -1,10 +1,13 @@
 "The Haunted Record Player" by Kyle Axt
 
+When play begins:
+	say "You have entered the abandoned house of Sir William Henry, a deceased business man.  Legend has it that he was murdered in his house and his body still lies in his room.  You go in the house alone, pushed in by your friends.  And they are refusing to let you out. "
+
 Rule for deciding whether all includes something: it does not.
 
 Rule for printing a parser error when the latest parser error is the nothing to do error: say "please don't cheat" instead.
 
-Foyer is a room. The description is "The entranceway to the house.  The old wooden floor is dusty and there is a coat hanger that looks like its falling apart.  There's also an old painting hung on the wall.
+Foyer is a room. The description is "The entranceway to the house.  The old wooden floor is dusty and there is a coat hanger that looks like its falling apart.  There's also an old painting hung on the wall.  There is a hallway to the north.
 
 You can still hear your friends talking outside the house.
 "
@@ -12,7 +15,9 @@ You can still hear your friends talking outside the house.
 Coat Hanger is scenery in the Foyer.  The description is "An old broken coat hanger."
 Painting is scenery in the Foyer.  The description is "It appears to be an old painting of a record player."
 
-South Hallway is north of Foyer.  The description is "This is the hallway that leads to the rest of the house."
+South Hallway is north of Foyer.  The description is "This is the hallway that leads to the rest of the house.  There is a table here with a vase on it.
+
+There is a room to the north and south."
 
 The Table is scenery in the South hallway.  The description is "A sturdy wooden table.  Surprising that it's still standing after so long."
 The flower vase is in the South hallway.  It is undescribed.  The description is "A fragile vase.  If you drop it, it will probably break.  "
@@ -21,11 +26,13 @@ Instead of taking vase:
 	say "When you picked it up, it slid out of your hands and shattered into a million pieces on the floor.  Good thing no one lives here anymore.  Or maybe someone does?";
 	remove vase from play.
 
-Music Room is north of South Hallway.  The description is "This room is filled with a bunch of random instruments.  There is a record player in the middle.  It seems to be pretty important since it is in the center of the room."
+Music Room is north of South Hallway.  The description is "This room is filled with a bunch of random instruments.  There is a record player in the middle.  It seems to be pretty important since it is in the center of the room. 
 
-Instruments is scenery in the Music Room.  The description is "There's a piano, tuba, a few trumpets, a clarinet, a guitar, trombone, and french horn.  Thats just counting the ones that you know.  There are a bunch more that you can't even name."
+There is a room to the west and a hallway to the north south, and east."
+
+Instruments is scenery in the Music Room.  The description is "There's a piano, tuba, a few trumpets, a clarinet, a guitar, trombone, and french horn.  Thats just counting the ones that you know.  There are a bunch more that you can't even name.  In the corner is a record.  Maybe you can play it."
 [****]
-Blue Record is in the Storage Room.  It is undescribed.  Blue Record can be played or unplayed.  It is unplayed.  The description is "It's a record.  You should try playing it with the record player."
+Blue Record is in the Music Room.  It is undescribed.  Blue Record can be played or unplayed.  It is unplayed.  The description is "It's a record.  You should try playing it with the record player."
 
 
 North Hallway is north of Music Room.  The description is "The passageway to the north says, to William Henry's Room."
