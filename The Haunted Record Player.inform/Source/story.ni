@@ -116,22 +116,22 @@ Instead of combining the reader pin with the not working record player:
 
 Instead of playing the Blue Record with the record player:
 	say "You heard a loud sound coming from the East.  Why don't you go check it out?";
-	The description of the East Hallway is now "There is a room to the east.  From the outside, it looks to be a storage room.";
-	Blue Record is now played;
+	now The description of the East Hallway is "There is a room to the east.  From the outside, it looks to be a storage room.";
+	now the Blue Record is played;
 	say "The Blue Record disappeared after the song finished.  Where could it have gone?";
 	move Blue Record to The Room Sized Box.
 
 Instead of playing the Red Record with the Record player:
 	say "You heard a loud noise coming from the North.  You should go see what happened.";
-	The description of the North Hallway is now "You can go west, to the guest room, and the door to William Henry's room seems to be locked.";
-	Red Record is now played;
+	now The description of the North Hallway is "You can go west, to the guest room, and the door to William Henry's room seems to be locked.";
+	now the Red Record is played;
 	say "The Red Record disappeared after the song finished.  Where could it have gone?";
 	move Red Record to The Room Sized Box.
 
 Instead of playing the Yellow Record with the Record player:
 	say "You heard a loud noise coming from the North.  You should go see what happened.";
-	The description of the North Hallway is now "You can go west, to the guest room.  The door to William Henry's Room isn't there anymore.  You can walk right in.";
-	Yellow Record is now played;
+	now The description of the North Hallway is "You can go west, to the guest room.  The door to William Henry's Room isn't there anymore.  You can walk right in.";
+	now the Yellow Record is played;
 	say "The Yellow Record disappeared after the song finished.  Where could it have gone?";
 	move Red Record to The Room Sized Box.
 
